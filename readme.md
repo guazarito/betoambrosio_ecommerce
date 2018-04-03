@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About this project
+
+This project was developed as an e-commerce for a Brazilian photographer and cyclist who traveled the Latin America riding his bike. The travel lasted 2 years and a half and "Beto" could write all his experiences on a book that is sold on this web store.
+
+E-commerce link: loja.betoambrosio.com.br
+Site link: betoambrosio.com.br
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
