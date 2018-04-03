@@ -1,0 +1,2 @@
+[12-Mar-2018 17:49:30 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/banda081/public_html/loja.betoambrosio.com.br/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18
+[23-Mar-2018 08:10:48 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/banda081/public_html/loja.betoambrosio.com.br/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18

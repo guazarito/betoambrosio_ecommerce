@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://loja.betoambrosio.com.br/$1 [R=301,L]
+
+# Use PHPedge as default
+AddHandler application/x-httpd-php-edge .php
