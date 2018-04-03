@@ -11,9 +11,9 @@
 
 This project was developed as an e-commerce for a Brazilian photographer and cyclist who traveled the Latin America riding his bike. The travel lasted 2 years and a half and "Beto" could write all his experiences on a book that is sold on this web store.
 <br><br>
-E-commerce link: <a href="loja.betoambrosio.com.br" target="_blank">loja.betoambrosio.com.br</a>
+E-commerce link: <a href="https://loja.betoambrosio.com.br" target="_blank">loja.betoambrosio.com.br</a>
 <br>
-Site link: <a href="betoambrosio.com.br" target="_blank">betoambrosio.com.br</a>
+Site link: <a href="http://betoambrosio.com.br" target="_blank">betoambrosio.com.br</a>
 
 ## About Laravel
 
